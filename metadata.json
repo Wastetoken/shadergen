@@ -1,0 +1,5 @@
+{
+  "name": "Lumina: Advanced Shader Gallery",
+  "description": "A comprehensive exploration of high-end fragment shader techniques, featuring Voronoi, Simplex, Curl noise, Raymarching, and kaleidoscopic distortions with deep customization.",
+  "requestFramePermissions": []
+}
